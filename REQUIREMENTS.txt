@@ -1,0 +1,9 @@
+Pandas
+Numpy
+Matplotlib
+Scikit-learn
+Joblib
+Streamlit
+EDA
+Data preprocessing
+Model training and Evaluation
